@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { VWOScriptLoader } from 'react-test-package-shashwat';
 
-VWOScriptLoader({ account_id: 1000 })
+VWOScriptLoader({ account_id: 547770 })
 
 function App() {
   return (
